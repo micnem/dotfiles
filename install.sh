@@ -10,7 +10,7 @@ brew "git"
 brew "gh"
 brew "node"
 
-{{ if eq .chezmoi.username "jackdewinter" }}
+{{ if eq .chezmoi.username "michaelnemni" }}
 cask "warp"
 cask "chrome"
 cask "visual-studio-code"
